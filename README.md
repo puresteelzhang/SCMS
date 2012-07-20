@@ -5,7 +5,7 @@ Social CMS
 
 ???
 
-weibo: http://weibo/osfoucs
+weibo: http://weibo.com/osfoucs
 mail:puresteel.zhang@gmail.com
 
 谢谢
